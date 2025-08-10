@@ -1,6 +1,8 @@
 # cta-section-two-blocks
 Leapforce case opdracht
 
+https://alexiawiersma.wixstudio.com/ctasection
+
 ```css
 button:hover {
   background-color: white; /* Nieuwe hoverkleur */
